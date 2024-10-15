@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Joydip Dewasi</h1>
 <h3 align="center">I am currently pursuing B.E at "Jadavpur University". I have high interest in Robotics and Technical Field.</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
+<img align="right" alt="coding" width="380" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joydipdewasi&label=Profile%20views&color=0e75b6&style=flat" alt="joydipdewasi" /> </p>
 
